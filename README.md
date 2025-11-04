@@ -1,6 +1,6 @@
 ## 📱 App Screenshots
 
-<table align="center">
+<table align="center" cellspacing="20" cellpadding="10">
   <tr>
     <td align="center">
       <b>🏠 Dashboard Screen</b><br>
@@ -15,6 +15,8 @@
       <img src="https://github.com/user-attachments/assets/64a6ad2f-752c-4e87-900c-140de5834f16" alt="Quiz Screen" width="150" style="border-radius: 10px;">
     </td>
   </tr>
+
+  <tr height="40"></tr> <!-- Adds space between rows -->
 
   <tr>
     <td align="center">
@@ -31,8 +33,10 @@
     </td>
   </tr>
 
+  <tr height="40"></tr> <!-- Adds space between rows -->
+
   <tr>
-    <td align="center">
+    <td align="center" colspan="3">
       <b>🐞 Issue Report Screen</b><br>
       <img src="https://github.com/user-attachments/assets/0afaec2c-04b4-4760-9000-47dce4bf4890" alt="Issue Report Screen" width="150" style="border-radius: 10px;">
     </td>
