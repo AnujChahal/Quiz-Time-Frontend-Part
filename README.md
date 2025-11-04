@@ -1,6 +1,6 @@
 ## 📱 App Screenshots
 
-<table align="center" cellspacing="20" cellpadding="10">
+<table align="center" border="0" cellspacing="20" cellpadding="10">
   <tr>
     <td align="center" valign="top">
       <b>🏠 Dashboard Screen</b><br>
